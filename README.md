@@ -56,7 +56,7 @@ Realiza el test que consideres más importante para las integraciones realizadas
 
 * Usar App Router
 * Base de datos con Prisma (postgreSQL)
-* Formulario con ShadCN UI (<Form><Input><Select>, etc)
+* Formulario con ShadCN UI
 * Filtrado desde el cliente (opcional: también desdee el servidor)
 * El proyecto debe de compilar correctamente
 * El test tiene que pasar
